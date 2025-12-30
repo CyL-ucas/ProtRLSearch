@@ -1,0 +1,13 @@
+torch
+torchvision
+transformers
+accelerate
+qwen-vl-utils
+jupyter
+datasets
+peft
+pytorch_lightning
+wandb
+trl[vllm]
+bitsandbytes
+deepspeed

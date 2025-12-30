@@ -1,0 +1,1000 @@
+Q1 Answer: A, C
+Q2 Answer: A, B
+Q3 Answer: A, C, D
+Q4 Answer: A, C
+Q5 Answer: A, B
+Q6 Answer: A, C
+Q7 Answer: A, B, D
+Q8 Answer: A, C, D
+Q9 Answer: A, B
+Q10 Answer: A, D
+Q11 Answer: A, D
+Q12 Answer: A, D
+Q13 Answer: B, D
+Q14 Answer: A, B
+Q15 Answer: A, B
+Q16 Answer: A, B
+Q17 Answer: A, D
+Q18 Answer: B, C
+Q19 Answer: B, D
+Q20 Answer: A, D
+Q21 Answer: A, B
+Q22 Answer: A, B
+Q23 Answer: A, B
+Q24 Answer: A, B
+Q25 Answer: A, D
+Q26 Answer: A, B, C
+Q27 Answer: A, B, D
+Q28 Answer: A, B
+Q29 Answer: B, C
+Q30 Answer: B, C
+Q31 Answer: B, C
+Q32 Answer: B, D
+Q33 Answer: C, D
+Q34 Answer: A, B, D
+Q35 Answer: C, D
+Q36 Answer: A, C
+Q37 Answer: B, C, D
+Q38 Answer: B, C
+Q39 Answer: C, D
+Q40 Answer: B, C
+Q41 Answer: A, B, C
+Q42 Answer: C, D
+Q43 Answer: B, C
+Q44 Answer: B, C, D
+Q45 Answer: B, C, D
+Q46 Answer: C, D
+Q47 Answer: C, D
+Q48 Answer: B, D
+Q49 Answer: C, D
+Q50 Answer: A, D
+Q51 Answer: B, D
+Q52 Answer: A, C
+Q53 Answer: B, D
+Q54 Answer: C, D
+Q55 Answer: A, C, D
+Q56 Answer: A, D
+Q57 Answer: A, B, C
+Q58 Answer: A, D
+Q59 Answer: A, C
+Q60 Answer: A, B, C
+Q61 Answer: A, B, C
+Q62 Answer: B, C
+Q63 Answer: C, D
+Q64 Answer: A, D
+Q65 Answer: A, B, C
+Q66 Answer: A, D
+Q67 Answer: A, B, C
+Q68 Answer: A, B
+Q69 Answer: A, B, D
+Q70 Answer: B, C, D
+Q71 Answer: A, D
+Q72 Answer: A, B
+Q73 Answer: A, D
+Q74 Answer: A, D
+Q75 Answer: B, D
+Q76 Answer: B, D
+Q77 Answer: B, C, D
+Q78 Answer: C, D
+Q79 Answer: B, D
+Q80 Answer: A, D
+Q81 Answer: B, D
+Q82 Answer: A, B
+Q83 Answer: A, D
+Q84 Answer: B, D
+Q85 Answer: A, B
+Q86 Answer: B, C, D
+Q87 Answer: A, D
+Q88 Answer: A, B
+Q89 Answer: B, C
+Q90 Answer: B, D
+Q91 Answer: A, B, D
+Q92 Answer: C, D
+Q93 Answer: A, C, D
+Q94 Answer: A, C
+Q95 Answer: A, D
+Q96 Answer: B, C, D
+Q97 Answer: C, D
+Q98 Answer: A, C
+Q99 Answer: B, D
+Q100 Answer: C, D
+Q101 Answer: A, D
+Q102 Answer: B, C
+Q103 Answer: A, D
+Q104 Answer: B, C
+Q105 Answer: C, D
+Q106 Answer: B, C
+Q107 Answer: B, D
+Q108 Answer: A, B, C
+Q109 Answer: A, D
+Q110 Answer: A, C
+Q111 Answer: A, B
+Q112 Answer: A, B, D
+Q113 Answer: C, D
+Q114 Answer: A, D
+Q115 Answer: A, C
+Q116 Answer: B, C
+Q117 Answer: C, D
+Q118 Answer: C, D
+Q119 Answer: A, B
+Q120 Answer: A, C
+Q121 Answer: B, D
+Q122 Answer: C, D
+Q123 Answer: A, B, D
+Q124 Answer: B, C, D
+Q125 Answer: A, C, D
+Q126 Answer: A, D
+Q127 Answer: A, D
+Q128 Answer: C, D
+Q129 Answer: A, B, D
+Q130 Answer: A, B, D
+Q131 Answer: A, C
+Q132 Answer: A, D
+Q133 Answer: A, B
+Q134 Answer: B, C, D
+Q135 Answer: B, C, D
+Q136 Answer: C, D
+Q137 Answer: A, D
+Q138 Answer: B, C
+Q139 Answer: A, B
+Q140 Answer: A, C
+Q141 Answer: B, D
+Q142 Answer: B, C
+Q143 Answer: A, B, C
+Q144 Answer: B, D
+Q145 Answer: B, C
+Q146 Answer: B, C, D
+Q147 Answer: A, C
+Q148 Answer: B, C, D
+Q149 Answer: B, C, D
+Q150 Answer: B, D
+Q151 Answer: A, D
+Q152 Answer: B, D
+Q153 Answer: A, B, D
+Q154 Answer: B, C, D
+Q155 Answer: A, C, D
+Q156 Answer: B, C, D
+Q157 Answer: B, D
+Q158 Answer: A, C
+Q159 Answer: B, D
+Q160 Answer: A, B
+Q161 Answer: A, B, C
+Q162 Answer: A, B, C
+Q163 Answer: A, B, D
+Q164 Answer: B, C
+Q165 Answer: A, B, D
+Q166 Answer: B, D
+Q167 Answer: B, C
+Q168 Answer: B, C
+Q169 Answer: A, C
+Q170 Answer: A, B
+Q171 Answer: B, D
+Q172 Answer: A, D
+Q173 Answer: C, D
+Q174 Answer: B, D
+Q175 Answer: C, D
+Q176 Answer: A, B
+Q177 Answer: B, D
+Q178 Answer: B, D
+Q179 Answer: A, C
+Q180 Answer: A, D
+Q181 Answer: A, B
+Q182 Answer: B, C
+Q183 Answer: C, D
+Q184 Answer: B, C, D
+Q185 Answer: C, D
+Q186 Answer: A, B, D
+Q187 Answer: A, C
+Q188 Answer: B, D
+Q189 Answer: B, D
+Q190 Answer: A, B
+Q191 Answer: B, C, D
+Q192 Answer: A, D
+Q193 Answer: A, D
+Q194 Answer: B, D
+Q195 Answer: B, C
+Q196 Answer: A, D
+Q197 Answer: A, B, D
+Q198 Answer: A, C, D
+Q199 Answer: A, C
+Q200 Answer: A, B
+Q201 Answer: B, D
+Q202 Answer: A, C
+Q203 Answer: A, D
+Q204 Answer: A, C, D
+Q205 Answer: B, D
+Q206 Answer: A, C
+Q207 Answer: A, B
+Q208 Answer: A, D
+Q209 Answer: B, D
+Q210 Answer: A, C
+Q211 Answer: C, D
+Q212 Answer: C, D
+Q213 Answer: B, C
+Q214 Answer: A, B
+Q215 Answer: B, C, D
+Q216 Answer: A, B
+Q217 Answer: B, D
+Q218 Answer: C, D
+Q219 Answer: A, B
+Q220 Answer: B, C, D
+Q221 Answer: A, C, D
+Q222 Answer: B, D
+Q223 Answer: C, D
+Q224 Answer: B, C
+Q225 Answer: C, D
+Q226 Answer: B, D
+Q227 Answer: B, C
+Q228 Answer: C, D
+Q229 Answer: A, C
+Q230 Answer: A, C
+Q231 Answer: A, C
+Q232 Answer: A, B, C
+Q233 Answer: A, D
+Q234 Answer: B, C, D
+Q235 Answer: B, C
+Q236 Answer: C, D
+Q237 Answer: A, B
+Q238 Answer: A, B
+Q239 Answer: C, D
+Q240 Answer: B, C
+Q241 Answer: B, D
+Q242 Answer: C, D
+Q243 Answer: A, B, D
+Q244 Answer: A, C
+Q245 Answer: A, C, D
+Q246 Answer: A, B, D
+Q247 Answer: A, B
+Q248 Answer: A, C
+Q249 Answer: B, C, D
+Q250 Answer: B, C
+Q251 Answer: B, C
+Q252 Answer: A, B
+Q253 Answer: A, D
+Q254 Answer: A, C
+Q255 Answer: A, B, C
+Q256 Answer: B, D
+Q257 Answer: A, C
+Q258 Answer: C, D
+Q259 Answer: A, B
+Q260 Answer: A, B
+Q261 Answer: B, D
+Q262 Answer: C, D
+Q263 Answer: C, D
+Q264 Answer: B, D
+Q265 Answer: C, D
+Q266 Answer: B, C
+Q267 Answer: A, C
+Q268 Answer: B, D
+Q269 Answer: A, C
+Q270 Answer: A, B
+Q271 Answer: B, C
+Q272 Answer: A, C
+Q273 Answer: A, B, C
+Q274 Answer: A, B
+Q275 Answer: C, D
+Q276 Answer: A, D
+Q277 Answer: B, C, D
+Q278 Answer: B, C
+Q279 Answer: A, D
+Q280 Answer: B, C
+Q281 Answer: C, D
+Q282 Answer: C, D
+Q283 Answer: B, C
+Q284 Answer: B, D
+Q285 Answer: A, B, D
+Q286 Answer: A, B, D
+Q287 Answer: C, D
+Q288 Answer: C, D
+Q289 Answer: B, C, D
+Q290 Answer: C, D
+Q291 Answer: A, D
+Q292 Answer: A, D
+Q293 Answer: A, B, D
+Q294 Answer: A, C
+Q295 Answer: A, C
+Q296 Answer: A, C, D
+Q297 Answer: A, B
+Q298 Answer: A, B
+Q299 Answer: B, C, D
+Q300 Answer: A, B, C
+Q301 Answer: C, D
+Q302 Answer: C, D
+Q303 Answer: A, B
+Q304 Answer: A, C
+Q305 Answer: B, C
+Q306 Answer: A, C, D
+Q307 Answer: A, B
+Q308 Answer: A, C
+Q309 Answer: A, C
+Q310 Answer: B, C
+Q311 Answer: C, D
+Q312 Answer: A, D
+Q313 Answer: C, D
+Q314 Answer: A, B, D
+Q315 Answer: A, B, C
+Q316 Answer: A, B, C
+Q317 Answer: A, B, D
+Q318 Answer: A, C
+Q319 Answer: A, B, D
+Q320 Answer: B, C
+Q321 Answer: A, D
+Q322 Answer: A, C
+Q323 Answer: A, B, C
+Q324 Answer: C, D
+Q325 Answer: B, C
+Q326 Answer: A, D
+Q327 Answer: A, D
+Q328 Answer: A, D
+Q329 Answer: A, C
+Q330 Answer: A, C
+Q331 Answer: A, B
+Q332 Answer: A, D
+Q333 Answer: A, C, D
+Q334 Answer: A, B, D
+Q335 Answer: A, B, C
+Q336 Answer: C, D
+Q337 Answer: A, D
+Q338 Answer: C, D
+Q339 Answer: B, D
+Q340 Answer: B, D
+Q341 Answer: A, B, D
+Q342 Answer: A, B, D
+Q343 Answer: B, D
+Q344 Answer: B, D
+Q345 Answer: A, D
+Q346 Answer: B, C
+Q347 Answer: A, D
+Q348 Answer: C, D
+Q349 Answer: A, C
+Q350 Answer: A, B
+Q351 Answer: B, D
+Q352 Answer: B, C
+Q353 Answer: B, D
+Q354 Answer: A, B
+Q355 Answer: A, C
+Q356 Answer: A, B, C
+Q357 Answer: A, B
+Q358 Answer: B, C
+Q359 Answer: A, C
+Q360 Answer: A, D
+Q361 Answer: A, D
+Q362 Answer: B, D
+Q363 Answer: A, B
+Q364 Answer: C, D
+Q365 Answer: A, D
+Q366 Answer: B, D
+Q367 Answer: C, D
+Q368 Answer: C, D
+Q369 Answer: A, B
+Q370 Answer: B, C
+Q371 Answer: B, C
+Q372 Answer: C, D
+Q373 Answer: B, C
+Q374 Answer: C, D
+Q375 Answer: A, C
+Q376 Answer: B, C
+Q377 Answer: C, D
+Q378 Answer: C, D
+Q379 Answer: A, D
+Q380 Answer: A, C
+Q381 Answer: C, D
+Q382 Answer: A, D
+Q383 Answer: A, B
+Q384 Answer: B, D
+Q385 Answer: A, C
+Q386 Answer: A, D
+Q387 Answer: A, C
+Q388 Answer: B, D
+Q389 Answer: B, C
+Q390 Answer: A, B
+Q391 Answer: C, D
+Q392 Answer: B, C
+Q393 Answer: C, D
+Q394 Answer: A, B
+Q395 Answer: B, D
+Q396 Answer: B, C, D
+Q397 Answer: A, C
+Q398 Answer: A, B
+Q399 Answer: B, C
+Q400 Answer: B, D
+Q401 Answer: B, C
+Q402 Answer: A, D
+Q403 Answer: A, D
+Q404 Answer: B, D
+Q405 Answer: A, B
+Q406 Answer: A, D
+Q407 Answer: A, D
+Q408 Answer: A, C
+Q409 Answer: A, B
+Q410 Answer: B, C
+Q411 Answer: C, D
+Q412 Answer: A, B
+Q413 Answer: B, D
+Q414 Answer: B, C, D
+Q415 Answer: A, D
+Q416 Answer: A, C
+Q417 Answer: B, D
+Q418 Answer: B, C
+Q419 Answer: A, C
+Q420 Answer: C, D
+Q421 Answer: A, C, D
+Q422 Answer: A, D
+Q423 Answer: A, B
+Q424 Answer: C, D
+Q425 Answer: B, D
+Q426 Answer: A, D
+Q427 Answer: A, B, D
+Q428 Answer: B, C, D
+Q429 Answer: A, D
+Q430 Answer: C, D
+Q431 Answer: A, C
+Q432 Answer: B, C
+Q433 Answer: C, D
+Q434 Answer: A, C, D
+Q435 Answer: C, D
+Q436 Answer: A, C
+Q437 Answer: A, C
+Q438 Answer: A, B
+Q439 Answer: B, C, D
+Q440 Answer: A, D
+Q441 Answer: A, D
+Q442 Answer: B, D
+Q443 Answer: A, B
+Q444 Answer: A, C, D
+Q445 Answer: B, D
+Q446 Answer: A, B
+Q447 Answer: A, B
+Q448 Answer: B, D
+Q449 Answer: A, B, C
+Q450 Answer: A, C
+Q451 Answer: A, D
+Q452 Answer: A, C
+Q453 Answer: A, C, D
+Q454 Answer: A, D
+Q455 Answer: A, C
+Q456 Answer: A, C, D
+Q457 Answer: A, D
+Q458 Answer: A, C
+Q459 Answer: A, C, D
+Q460 Answer: C, D
+Q461 Answer: A, B
+Q462 Answer: A, C, D
+Q463 Answer: A, B, C
+Q464 Answer: A, C
+Q465 Answer: B, C
+Q466 Answer: B, C
+Q467 Answer: B, C
+Q468 Answer: A, C, D
+Q469 Answer: A, B, C
+Q470 Answer: B, C
+Q471 Answer: A, C, D
+Q472 Answer: A, C
+Q473 Answer: B, D
+Q474 Answer: A, D
+Q475 Answer: A, D
+Q476 Answer: B, D
+Q477 Answer: C, D
+Q478 Answer: C, D
+Q479 Answer: B, D
+Q480 Answer: B, C
+Q481 Answer: C, D
+Q482 Answer: A, C
+Q483 Answer: B, C
+Q484 Answer: B, C
+Q485 Answer: C, D
+Q486 Answer: A, C, D
+Q487 Answer: B, C
+Q488 Answer: C, D
+Q489 Answer: A, C
+Q490 Answer: A, C, D
+Q491 Answer: C, D
+Q492 Answer: A, B
+Q493 Answer: A, D
+Q494 Answer: A, B
+Q495 Answer: B, C
+Q496 Answer: A, C
+Q497 Answer: A, D
+Q498 Answer: B, D
+Q499 Answer: A, B, C
+Q500 Answer: B, C
+Q501 Answer: B, D
+Q502 Answer: A, B
+Q503 Answer: B, C
+Q504 Answer: A, D
+Q505 Answer: B, C
+Q506 Answer: A, B
+Q507 Answer: A, D
+Q508 Answer: B, C, D
+Q509 Answer: A, C
+Q510 Answer: C, D
+Q511 Answer: A, D
+Q512 Answer: B, D
+Q513 Answer: A, D
+Q514 Answer: A, B, C
+Q515 Answer: A, C, D
+Q516 Answer: A, D
+Q517 Answer: C, D
+Q518 Answer: A, C
+Q519 Answer: A, B
+Q520 Answer: A, B
+Q521 Answer: A, D
+Q522 Answer: A, D
+Q523 Answer: A, B
+Q524 Answer: C, D
+Q525 Answer: A, D
+Q526 Answer: A, D
+Q527 Answer: A, D
+Q528 Answer: A, D
+Q529 Answer: B, D
+Q530 Answer: A, B
+Q531 Answer: A, C
+Q532 Answer: B, D
+Q533 Answer: A, C, D
+Q534 Answer: A, C
+Q535 Answer: A, D
+Q536 Answer: A, B
+Q537 Answer: A, C, D
+Q538 Answer: A, C
+Q539 Answer: A, B, D
+Q540 Answer: A, B
+Q541 Answer: A, C, D
+Q542 Answer: B, C
+Q543 Answer: B, D
+Q544 Answer: B, C
+Q545 Answer: C, D
+Q546 Answer: A, C
+Q547 Answer: B, D
+Q548 Answer: B, D
+Q549 Answer: B, C
+Q550 Answer: B, C
+Q551 Answer: A, B
+Q552 Answer: B, D
+Q553 Answer: A, D
+Q554 Answer: A, B
+Q555 Answer: C, D
+Q556 Answer: B, C, D
+Q557 Answer: A, B
+Q558 Answer: C, D
+Q559 Answer: B, D
+Q560 Answer: B, D
+Q561 Answer: B, D
+Q562 Answer: A, B
+Q563 Answer: B, C
+Q564 Answer: B, D
+Q565 Answer: A, D
+Q566 Answer: A, B
+Q567 Answer: C, D
+Q568 Answer: A, C
+Q569 Answer: B, C
+Q570 Answer: C, D
+Q571 Answer: A, B
+Q572 Answer: B, C
+Q573 Answer: B, D
+Q574 Answer: B, C
+Q575 Answer: C, D
+Q576 Answer: C, D
+Q577 Answer: A, B
+Q578 Answer: A, B, D
+Q579 Answer: A, C, D
+Q580 Answer: B, C, D
+Q581 Answer: B, C
+Q582 Answer: B, C
+Q583 Answer: B, C
+Q584 Answer: A, D
+Q585 Answer: A, B
+Q586 Answer: A, D
+Q587 Answer: A, B, C
+Q588 Answer: B, D
+Q589 Answer: A, B
+Q590 Answer: B, C
+Q591 Answer: A, D
+Q592 Answer: B, C
+Q593 Answer: B, D
+Q594 Answer: B, D
+Q595 Answer: B, D
+Q596 Answer: A, B
+Q597 Answer: A, B
+Q598 Answer: A, B
+Q599 Answer: A, C
+Q600 Answer: B, D
+Q601 Answer: A, B
+Q602 Answer: B, D
+Q603 Answer: A, C
+Q604 Answer: A, C, D
+Q605 Answer: A, D
+Q606 Answer: A, B
+Q607 Answer: A, B, D
+Q608 Answer: B, C
+Q609 Answer: A, C
+Q610 Answer: A, C
+Q611 Answer: B, C
+Q612 Answer: A, C
+Q613 Answer: A, B
+Q614 Answer: A, B
+Q615 Answer: B, D
+Q616 Answer: C, D
+Q617 Answer: A, B, D
+Q618 Answer: B, D
+Q619 Answer: A, C
+Q620 Answer: A, C
+Q621 Answer: A, D
+Q622 Answer: B, D
+Q623 Answer: B, C
+Q624 Answer: B, D
+Q625 Answer: A, C, D
+Q626 Answer: C, D
+Q627 Answer: A, C, D
+Q628 Answer: B, C
+Q629 Answer: B, C, D
+Q630 Answer: A, C
+Q631 Answer: A, C
+Q632 Answer: B, C, D
+Q633 Answer: A, B, D
+Q634 Answer: A, C, D
+Q635 Answer: C, D
+Q636 Answer: B, C
+Q637 Answer: B, C
+Q638 Answer: A, B
+Q639 Answer: A, C
+Q640 Answer: A, D
+Q641 Answer: A, C
+Q642 Answer: B, D
+Q643 Answer: B, C, D
+Q644 Answer: C, D
+Q645 Answer: A, C, D
+Q646 Answer: B, D
+Q647 Answer: B, C, D
+Q648 Answer: C, D
+Q649 Answer: B, D
+Q650 Answer: A, C
+Q651 Answer: A, C
+Q652 Answer: A, B, C
+Q653 Answer: A, C, D
+Q654 Answer: C, D
+Q655 Answer: A, B
+Q656 Answer: B, D
+Q657 Answer: C, D
+Q658 Answer: A, C, D
+Q659 Answer: A, B, D
+Q660 Answer: B, C, D
+Q661 Answer: B, D
+Q662 Answer: A, C
+Q663 Answer: B, C
+Q664 Answer: B, C
+Q665 Answer: A, C
+Q666 Answer: B, D
+Q667 Answer: A, C
+Q668 Answer: A, B, C
+Q669 Answer: B, C
+Q670 Answer: B, D
+Q671 Answer: A, C, D
+Q672 Answer: A, D
+Q673 Answer: A, D
+Q674 Answer: B, C
+Q675 Answer: A, B
+Q676 Answer: C, D
+Q677 Answer: B, C, D
+Q678 Answer: C, D
+Q679 Answer: C, D
+Q680 Answer: A, D
+Q681 Answer: B, D
+Q682 Answer: B, C
+Q683 Answer: A, B
+Q684 Answer: B, C, D
+Q685 Answer: C, D
+Q686 Answer: A, C
+Q687 Answer: C, D
+Q688 Answer: A, C
+Q689 Answer: C, D
+Q690 Answer: B, C
+Q691 Answer: B, C
+Q692 Answer: A, B, D
+Q693 Answer: A, D
+Q694 Answer: A, C
+Q695 Answer: A, B, C
+Q696 Answer: A, C
+Q697 Answer: B, C, D
+Q698 Answer: A, D
+Q699 Answer: A, D
+Q700 Answer: A, C
+Q701 Answer: A, C
+Q702 Answer: B, D
+Q703 Answer: A, B, D
+Q704 Answer: B, D
+Q705 Answer: A, B
+Q706 Answer: C, D
+Q707 Answer: C, D
+Q708 Answer: B, C
+Q709 Answer: A, B, C
+Q710 Answer: A, D
+Q711 Answer: B, C
+Q712 Answer: B, C, D
+Q713 Answer: B, C
+Q714 Answer: A, C
+Q715 Answer: C, D
+Q716 Answer: A, C
+Q717 Answer: B, C
+Q718 Answer: C, D
+Q719 Answer: B, C
+Q720 Answer: B, C, D
+Q721 Answer: A, C, D
+Q722 Answer: A, B
+Q723 Answer: A, C, D
+Q724 Answer: A, C
+Q725 Answer: B, C
+Q726 Answer: A, C
+Q727 Answer: A, C
+Q728 Answer: A, C
+Q729 Answer: A, B, C
+Q730 Answer: B, C
+Q731 Answer: B, D
+Q732 Answer: A, B, C
+Q733 Answer: B, C
+Q734 Answer: A, B, D
+Q735 Answer: A, B
+Q736 Answer: B, C
+Q737 Answer: C, D
+Q738 Answer: B, C
+Q739 Answer: A, D
+Q740 Answer: A, D
+Q741 Answer: A, B
+Q742 Answer: A, B
+Q743 Answer: B, D
+Q744 Answer: A, C, D
+Q745 Answer: B, D
+Q746 Answer: B, D
+Q747 Answer: A, B
+Q748 Answer: A, D
+Q749 Answer: A, C
+Q750 Answer: B, C
+Q751 Answer: A, B, C
+Q752 Answer: A, C
+Q753 Answer: B, C
+Q754 Answer: A, C, D
+Q755 Answer: B, D
+Q756 Answer: A, B
+Q757 Answer: B, D
+Q758 Answer: A, C
+Q759 Answer: A, B, C
+Q760 Answer: A, D
+Q761 Answer: A, D
+Q762 Answer: A, B
+Q763 Answer: B, D
+Q764 Answer: B, C, D
+Q765 Answer: B, C, D
+Q766 Answer: A, D
+Q767 Answer: A, C
+Q768 Answer: A, D
+Q769 Answer: B, D
+Q770 Answer: A, B
+Q771 Answer: A, B
+Q772 Answer: C, D
+Q773 Answer: B, C
+Q774 Answer: A, B
+Q775 Answer: A, B
+Q776 Answer: B, D
+Q777 Answer: A, C
+Q778 Answer: B, D
+Q779 Answer: C, D
+Q780 Answer: C, D
+Q781 Answer: B, C
+Q782 Answer: A, C
+Q783 Answer: A, C
+Q784 Answer: C, D
+Q785 Answer: B, C
+Q786 Answer: A, B
+Q787 Answer: C, D
+Q788 Answer: C, D
+Q789 Answer: B, C, D
+Q790 Answer: A, D
+Q791 Answer: B, C
+Q792 Answer: B, C
+Q793 Answer: A, C
+Q794 Answer: A, B
+Q795 Answer: A, B, C
+Q796 Answer: A, B, D
+Q797 Answer: B, D
+Q798 Answer: B, C
+Q799 Answer: B, D
+Q800 Answer: A, D
+Q801 Answer: B, C
+Q802 Answer: A, C
+Q803 Answer: A, C
+Q804 Answer: A, B
+Q805 Answer: B, C
+Q806 Answer: A, D
+Q807 Answer: B, C
+Q808 Answer: A, B, D
+Q809 Answer: B, C
+Q810 Answer: B, D
+Q811 Answer: A, D
+Q812 Answer: A, C
+Q813 Answer: B, C
+Q814 Answer: A, B, C
+Q815 Answer: B, C
+Q816 Answer: A, C
+Q817 Answer: A, D
+Q818 Answer: B, D
+Q819 Answer: A, B, C
+Q820 Answer: A, C, D
+Q821 Answer: A, D
+Q822 Answer: B, D
+Q823 Answer: B, D
+Q824 Answer: A, B
+Q825 Answer: A, B, D
+Q826 Answer: B, C
+Q827 Answer: A, D
+Q828 Answer: C, D
+Q829 Answer: B, C
+Q830 Answer: B, C
+Q831 Answer: C, D
+Q832 Answer: A, C
+Q833 Answer: C, D
+Q834 Answer: A, B
+Q835 Answer: A, C
+Q836 Answer: B, C
+Q837 Answer: A, B
+Q838 Answer: C, D
+Q839 Answer: A, B, C
+Q840 Answer: A, B
+Q841 Answer: A, D
+Q842 Answer: B, C
+Q843 Answer: B, D
+Q844 Answer: C, D
+Q845 Answer: C, D
+Q846 Answer: A, B
+Q847 Answer: A, B
+Q848 Answer: A, D
+Q849 Answer: B, D
+Q850 Answer: C, D
+Q851 Answer: A, B, C
+Q852 Answer: A, D
+Q853 Answer: B, C
+Q854 Answer: B, D
+Q855 Answer: B, C, D
+Q856 Answer: A, B
+Q857 Answer: B, D
+Q858 Answer: A, C
+Q859 Answer: A, D
+Q860 Answer: B, C
+Q861 Answer: A, B, C
+Q862 Answer: A, D
+Q863 Answer: B, C
+Q864 Answer: A, D
+Q865 Answer: A, C
+Q866 Answer: A, B
+Q867 Answer: A, B
+Q868 Answer: A, C
+Q869 Answer: A, B, D
+Q870 Answer: A, D
+Q871 Answer: B, C, D
+Q872 Answer: A, C, D
+Q873 Answer: B, D
+Q874 Answer: B, D
+Q875 Answer: B, C, D
+Q876 Answer: A, C
+Q877 Answer: A, B
+Q878 Answer: A, B, D
+Q879 Answer: A, B, C
+Q880 Answer: B, C
+Q881 Answer: A, C
+Q882 Answer: A, B, C
+Q883 Answer: A, B, D
+Q884 Answer: A, B, D
+Q885 Answer: A, D
+Q886 Answer: C, D
+Q887 Answer: A, C
+Q888 Answer: C, D
+Q889 Answer: A, D
+Q890 Answer: A, C
+Q891 Answer: A, B
+Q892 Answer: A, C
+Q893 Answer: B, C
+Q894 Answer: A, C
+Q895 Answer: B, D
+Q896 Answer: A, B, C
+Q897 Answer: A, C, D
+Q898 Answer: A, B, C
+Q899 Answer: C, D
+Q900 Answer: A, D
+Q901 Answer: C, D
+Q902 Answer: A, C, D
+Q903 Answer: B, D
+Q904 Answer: A, B, C
+Q905 Answer: B, D
+Q906 Answer: B, C
+Q907 Answer: A, C
+Q908 Answer: A, B
+Q909 Answer: B, D
+Q910 Answer: B, C
+Q911 Answer: A, B
+Q912 Answer: C, D
+Q913 Answer: A, B
+Q914 Answer: A, D
+Q915 Answer: A, D
+Q916 Answer: A, B, D
+Q917 Answer: B, D
+Q918 Answer: A, B
+Q919 Answer: B, C
+Q920 Answer: B, D
+Q921 Answer: A, B, C
+Q922 Answer: C, D
+Q923 Answer: A, D
+Q924 Answer: A, C, D
+Q925 Answer: A, B
+Q926 Answer: A, C
+Q927 Answer: A, B, C
+Q928 Answer: C, D
+Q929 Answer: B, C
+Q930 Answer: A, C
+Q931 Answer: A, B
+Q932 Answer: B, C
+Q933 Answer: C, D
+Q934 Answer: B, D
+Q935 Answer: A, B
+Q936 Answer: C, D
+Q937 Answer: A, C, D
+Q938 Answer: A, B
+Q939 Answer: A, B, D
+Q940 Answer: A, D
+Q941 Answer: C, D
+Q942 Answer: A, B
+Q943 Answer: B, C, D
+Q944 Answer: C, D
+Q945 Answer: A, B
+Q946 Answer: A, C
+Q947 Answer: A, D
+Q948 Answer: A, C, D
+Q949 Answer: B, D
+Q950 Answer: C, D
+Q951 Answer: A, B
+Q952 Answer: B, C
+Q953 Answer: A, D
+Q954 Answer: C, D
+Q955 Answer: C, D
+Q956 Answer: A, C
+Q957 Answer: B, C
+Q958 Answer: A, D
+Q959 Answer: A, B, D
+Q960 Answer: C, D
+Q961 Answer: A, B
+Q962 Answer: A, C, D
+Q963 Answer: A, B, C
+Q964 Answer: A, D
+Q965 Answer: A, D
+Q966 Answer: A, D
+Q967 Answer: A, B, D
+Q968 Answer: A, C
+Q969 Answer: A, B
+Q970 Answer: A, B, D
+Q971 Answer: B, C, D
+Q972 Answer: B, C
+Q973 Answer: A, C
+Q974 Answer: A, B
+Q975 Answer: C, D
+Q976 Answer: B, D
+Q977 Answer: B, D
+Q978 Answer: C, D
+Q979 Answer: C, D
+Q980 Answer: B, C, D
+Q981 Answer: B, C
+Q982 Answer: A, C
+Q983 Answer: A, B
+Q984 Answer: B, D
+Q985 Answer: A, B
+Q986 Answer: B, D
+Q987 Answer: B, C
+Q988 Answer: A, D
+Q989 Answer: A, B, D
+Q990 Answer: B, D
+Q991 Answer: A, C, D
+Q992 Answer: A, B, D
+Q993 Answer: A, C
+Q994 Answer: A, B
+Q995 Answer: A, B, C
+Q996 Answer: B, D
+Q997 Answer: A, B, C
+Q998 Answer: A, C
+Q999 Answer: C, D
+Q1000 Answer: B, D
